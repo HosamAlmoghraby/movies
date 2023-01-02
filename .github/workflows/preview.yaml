@@ -3,6 +3,8 @@ on:
     branches:
       - main
 
+name: preview
+
 jobs:
   preview:
     runs-on: ubuntu-latest
